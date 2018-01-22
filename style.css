@@ -1,0 +1,28 @@
+body {
+    background-color: yellow;
+    font-family: Arial;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 7px  black;
+    background-image: url(http://images2.fanpop.com/images/photos/6400000/FENERBAHCE-fenerbahce-sk-6435822-1280-1024.jpg);
+    background-size: auto;
+    margin:0 100px 20px 100px;
+    
+}
+i   { 
+    font-size: 20px;
+    color: yellow
+}
+h2  {
+    color: yellow;
+}
+h1  {
+    color: yellow;
+}
+div {
+    color: red;
+}
+.nasıl  {
+    color: blue;
+}
